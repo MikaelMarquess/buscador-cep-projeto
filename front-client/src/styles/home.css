@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+div.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25vh;
+}
+
+h1{
+    color: white;
+}
+
+input{
+    border-radius: 5px;
+}
+
+button{
+    display: block;
+    margin: 5px 60px 0px 60px;
+}
